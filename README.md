@@ -1,1 +1,1 @@
-Coisinhas minhas que eu baixo em outros PCs quando estou fora de casa, nada pra ver aqui
+Um site com links para baixar umas coisas que uso, às vezes preciso. Nada para ver aqui
