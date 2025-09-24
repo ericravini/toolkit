@@ -78,6 +78,7 @@ ul li a:hover {
 }
 
 code {
-  overflow-wrap: break-all;
+  text-wrap: wrap;
 }
+
 
