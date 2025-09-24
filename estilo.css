@@ -76,3 +76,8 @@ ul li a:hover {
   background: #dbeafe;
   transform: translateX(4px);
 }
+
+code {
+  overflow-wrap: break-all;
+}
+
